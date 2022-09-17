@@ -19,3 +19,6 @@ https://drive.google.com/file/d/1tMNEJCIB44IftkQJaFtU0fpExq5vhvJH/view
 Here is the HTML page that was generated:
 ![image](https://user-images.githubusercontent.com/107437105/190877603-387969dc-71b3-41bb-9b67-596e1abe91f1.png)
 
+
+This is the github page:
+ https://jgarcia128.github.io/Team-Profile-Generator/
